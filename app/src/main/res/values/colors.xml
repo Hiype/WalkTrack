@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Green1">#327B0F</color>
+    <color name="Green2">#183B07</color>
+    <color name="Green3">#4CBB17</color>
+    <color name="Green4">#51C819</color>
+    <color name="Green5">#42A114</color>
+    <color name="Main_SkyBlue">#9fd2f7</color>
+    <color name="Main_BottomViolet">#300016</color>
+    <color name="Disabled_Text">#393939</color>
+    <color name="NightStatusBar">#351c70</color>
+    <color name="HintNight">#bfbfbf</color>
+    <color name="HintDay">#8a8a8a</color>
+    <color name="Bg_color">#90FFFFFF</color>
+    <color name="Header">@color/Main_SkyBlue</color>
+</resources>

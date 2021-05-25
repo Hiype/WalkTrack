@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "338193524307",
+    "project_id": "walktrack-302813",
+    "storage_bucket": "walktrack-302813.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338193524307:android:bd998cb9af5e87a1e608a6",
+        "android_client_info": {
+          "package_name": "com.hiype.walktrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338193524307-j2svta4ehjngubo4b8aou77doituduns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCquNy7zgptzpqyxyREkk3JgJZ4gHevxlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338193524307-j2svta4ehjngubo4b8aou77doituduns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

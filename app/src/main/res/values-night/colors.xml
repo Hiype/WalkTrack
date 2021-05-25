@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Green1">#327B0F</color>
+    <color name="Green2">#183B07</color>
+    <color name="Green3">#4CBB17</color>
+    <color name="Green4">#51C819</color>
+    <color name="Green5">#42A114</color>
+    <color name="Bg_color">#90000000</color>
+    <color name="Header">@color/NightStatusBar</color>
+</resources>

@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">WalkTrack</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="logo" translatable="false">Logo</string>
+    <string name="log_in">Log in</string>
+    <string name="registration">Registration</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="PleaseEnterEmail">Please enter your email</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="title_activity_main2" translatable="false">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Android Studio</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="email_code">Email code</string>
+    <string name="update">UPDATE</string>
+    <string name="back_to_login">BACK TO LOGIN</string>
+    <string name="new_password">New password</string>
+    <string name="_5_min_00_sec" translatable="false">5 min 00 sec</string>
+    <string name="email_code_validity_timer">Email code validity timer</string>
+    <string name="send_a_new_code">Send a new code</string>
+    <string name="settings_menu_icon">Settings menu icon</string>
+    <string name="search">Search...</string>
+    <string name="you_have_no_friends">You have no friends</string>
+    <string name="no_friends_image">No friends image</string>
+    <string name="points_0">Points 0</string>
+    <string name="_0" translatable="false">0</string>
+    <string name="steps_walked_today">steps walked today</string>
+    <string name="_0_00_km" translatable="false">0.00 km</string>
+    <string name="your_friends_progress_today">Your friends progress today</string>
+    <string name="walked_distance_icon">Walked distance icon</string>
+    <string name="available_points">available\npoints</string>
+    <string name="need_more_points_feeling_lazy_today_watch_an_ad_and_get_some_extra_points">Need more points? Feeling lazy today? Watch an ad and get some extra points!</string>
+    <string name="collect_free_points">Watch the ad</string>
+    <string name="username">Username</string>
+    <string name="joined_date">Joined date</string>
+    <string name="name">Name</string>
+    <string name="cm" translatable="false">cm</string>
+    <string name="change_your_height">Change your height</string>
+    <string name="log_out">Log out</string>
+    <string name="save_changes">Save changes</string>
+    <string name="icon_changer">Icon changer</string>
+    <string name="unfriend">Unfriend</string>
+    <string name="friends_icon">Friends icon</string>
+    <string name="pcname">pcName</string>
+    <string name="pc_country">Pc country</string>
+    <string name="computer_icon">Computer icon</string>
+    <string name="walktrack_logo" translatable="false">WalkTrack logo</string>
+    <string name="select_your_profile_icon">Select your profile icon</string>
+    <string name="register">REGISTER</string>
+    <string name="select_your_height">Select your height</string>
+    <string name="buy">Buy</string>
+    <string name="_0_points">0 Points</string>
+    <string name="_0_steps">0 Steps</string>
+    <string name="add">ADD</string>
+    <string name="friends">Friends</string>
+    <string name="store">Store</string>
+    <string name="home">Home</string>
+    <string name="stats">Stats</string>
+    <string name="user">User</string>
+    <string name="friends_list">Friends list</string>
+    <string name="add_a_friend">Add a friend</string>
+    <string name="night_mode">Night mode</string>
+    <string name="language">Language</string>
+    <string name="english" translatable="false">English</string>
+    <string name="latvie_u" translatable="false">Latviešu</string>
+    <string name="logging_you_in">Logging you in…</string>
+    <string name="steps_walked_in_total">steps walked in total</string>
+    <string name="last_7_days_statistics">Last 7 days statistics</string>
+    <string name="your_friends_overall_progress">Your friends overall progress</string>
+    <string name="list">List</string>
+    <string name="please_come_back_tommorow_to_see_data">Walk 7 days to see statistics!</string>
+    <string name="steps"> Steps</string>
+    <string name="email_cant_be_changed">Email can\'t be changed!</string>
+    <string name="password_needs_to_be_longer">Password needs to be longer!</string>
+    <string name="username_needs_to_be_longer">Username needs to be longer!</string>
+    <string name="please_enter_password">Please enter the password!</string>
+    <string name="please_enter_email_code">Please enter the email code!</string>
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>Latviešu</item>
+    </string-array>
+</resources>

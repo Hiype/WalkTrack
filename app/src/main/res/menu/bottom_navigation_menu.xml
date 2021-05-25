@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/computerNav"
+        android:enabled="true"
+        android:icon="@drawable/friends_menu"
+        android:title="@string/friends"
+        android:visible="true" />
+    <item
+        android:id="@+id/storeNav"
+        android:enabled="true"
+        android:icon="@drawable/nav_cart"
+        android:title="@string/store"
+        android:visible="true" />
+    <item
+        android:id="@+id/homeNav"
+        android:enabled="true"
+        android:icon="@drawable/nav_home"
+        android:title="@string/home"
+        android:visible="true" />
+    <item
+        android:id="@+id/statsNav"
+        android:enabled="true"
+        android:icon="@drawable/nav_stats"
+        android:title="@string/stats"
+        android:visible="true" />
+    <item
+        android:id="@+id/userNav"
+        android:enabled="true"
+        android:icon="@drawable/nav_user"
+        android:title="@string/user"
+        android:visible="true" />
+</menu>
